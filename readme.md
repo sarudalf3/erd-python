@@ -1,4 +1,4 @@
-# SQL database design 
+# SQL Entity Relationship Diagram
 
 There are exercises about entity relationship diagram (ERD), when the target was design database structure, relationships between tables using Primary keys (PK) and Foreign Keys (FK). 
 
